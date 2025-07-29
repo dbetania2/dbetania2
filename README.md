@@ -1,4 +1,4 @@
-# ![sprite-animation](https://github.com/user-attachments/assets/2b9152d6-22b6-4e92-a3e8-28a38222d933) ¡Hola, soy Daiana Betania!
+# ¡Hola, soy Daiana Betania!                  ![giquieto](https://github.com/user-attachments/assets/54023458-d8a1-430b-bb9d-cb604be1b583)
 
 
 Estudiante de **Desarrollo de Software** con sólida base en **programación** y **análisis de datos**, buscando perfeccionar mis habilidades en el sector de **Tecnologías de la Información**. Mis capacidades de **organización**, **autonomía** y experiencia en **gestión de información en entornos remotos** me permiten contribuir al desarrollo de soluciones eficientes.
