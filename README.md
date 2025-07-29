@@ -28,7 +28,8 @@ Estudiante de **Desarrollo de Software** con sólida base en **programación** y
     * **Descripción:** Dashboard interactivo para el **análisis y monitoreo de rendimiento de motores magnéticos**, procesando un dataset de **450.000 datos** para identificar patrones y anomalías.
     * **Foco:** Procesamiento y visualización de grandes volúmenes de datos, extracción de insights sobre RPM y eficiencia.
     * **Tecnologías:** **Python, Pandas**, librerías de visualización (ej., Matplotlib, Seaborn, Plotly o herramientas de BI).
-      <img width="1600" height="782" alt="image" src="https://github.com/user-attachments/assets/5dac545f-e0df-48fe-b99c-d01050e25f00" />
+      <img width="1414" height="767" alt="image" src="https://github.com/user-attachments/assets/01f83456-1fc4-4e6a-ab11-f1dfd05fcba2" />
+
 
     * **Más proyectos de análisis de datos**
       * [Persistencia de Datasets para Análisis de Datos](https://github.com/dbetania2/Informatorio-Lab1/tree/main)
