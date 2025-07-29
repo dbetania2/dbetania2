@@ -31,8 +31,8 @@ Estudiante de **Desarrollo de Software** con sólida base en **programación** y
       <img width="1600" height="782" alt="image" src="https://github.com/user-attachments/assets/5dac545f-e0df-48fe-b99c-d01050e25f00" />
 
     * **Más proyectos de análisis de datos**
-      * [Persistencia de Datasets para Análisis de Datos](https://github.com/dbetania2/Informatorio-Lab1/tree/main))
-      * [(Análisis de Logs de Windows (Procmon)](https://github.com/dbetania2/procmon-analyzer)   
+      * [Persistencia de Datasets para Análisis de Datos](https://github.com/dbetania2/Informatorio-Lab1/tree/main)
+      * [Análisis de Logs de Windows (Procmon)](https://github.com/dbetania2/procmon-analyzer)   
      
 
 3.  **Simulador de Carrito de Compras (Java & Spring Boot)** 🛒
@@ -43,7 +43,7 @@ Estudiante de **Desarrollo de Software** con sólida base en **programación** y
 
     * **Más proyectos con Java**
       * [Veterinaria-CRUD](https://github.com/dbetania2/Veterinary-CRUD))
-      * [(Gestor de Gastos)](https://github.com/dbetania2/expense-manager)
+      * [Gestor de Gastos](https://github.com/dbetania2/expense-manager)
      
 4.  **Portfolio Personal Interactivo (En Desarrollo)** 🗺️
     * **Descripción:** Proyecto personal en curso para crear un mapa isométrico en píxeles **interactivo**, con distintas secciones navegables.
