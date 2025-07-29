@@ -42,7 +42,7 @@ Estudiante de **Desarrollo de Software** con sólida base en **programación** y
     * <img width="1519" height="989" alt="image" src="https://github.com/user-attachments/assets/036509ff-85d5-4bc8-ae40-915ca1474081" />
 
     * **Más proyectos con Java**
-      * [Veterinaria-CRUD](https://github.com/dbetania2/Veterinary-CRUD))
+      * [Veterinaria-CRUD](https://github.com/dbetania2/Veterinary-CRUD)
       * [Gestor de Gastos](https://github.com/dbetania2/expense-manager)
      
 4.  **Portfolio Personal Interactivo (En Desarrollo)** 🗺️
