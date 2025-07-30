@@ -26,6 +26,7 @@ Estudiante de **Desarrollo de Software** con sólida base en **programación** y
 
 2.  **Dashboard de Monitoreo de Motor Magnético (RPM 2Z)** 📈
     * **Descripción:** Dashboard interactivo para el **análisis y monitoreo de rendimiento de motores magnéticos**, procesando un dataset de **450.000 datos** para identificar patrones y anomalías.
+    * **Repositorio del análisis:** [Analisis-Datos-Motor-Electrico-RPM](https://github.com/dbetania2/Analisis-Datos-Motor-Electrico-RPM)  
     * **Foco:** Procesamiento y visualización de grandes volúmenes de datos, extracción de insights sobre RPM y eficiencia.
     * **Tecnologías:** **Python, Pandas**, librerías de visualización (ej., Matplotlib, Seaborn, Plotly o herramientas de BI).
       <img width="1414" height="767" alt="image" src="https://github.com/user-attachments/assets/01f83456-1fc4-4e6a-ab11-f1dfd05fcba2" />
