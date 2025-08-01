@@ -29,7 +29,8 @@ Estudiante de **Desarrollo de Software** con sólida base en **programación** y
     * **Repositorio del análisis:** [Analisis-Datos-Motor-Electrico-RPM](https://github.com/dbetania2/Analisis-Datos-Motor-Electrico-RPM)  
     * **Foco:** Procesamiento y visualización de grandes volúmenes de datos, extracción de insights sobre RPM y eficiencia.
     * **Tecnologías:** **Python, Pandas**, librerías de visualización (ej., Matplotlib, Seaborn, Plotly o herramientas de BI).
-      <img width="1414" height="767" alt="image" src="https://github.com/user-attachments/assets/01f83456-1fc4-4e6a-ab11-f1dfd05fcba2" />
+      <img width="1133" height="662" alt="image" src="https://github.com/user-attachments/assets/9ebb88f3-7c63-497e-ac4f-b9b48efc1b5d" />
+
 
 
     * **Más proyectos de análisis de datos**
