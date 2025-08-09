@@ -50,7 +50,8 @@
     <img src="https://github.com/user-attachments/assets/036509ff-85d5-4bc8-ae40-915ca1474081"  height="230" />
   </a>
   <a href="https://github.com/dbetania2/myportfolio">
-    <img src="https://github.com/user-attachments/assets/37c0c750-e1d0-4af9-bd7a-3c0735c749e9"  height="230" />
+    <img src="https://github.com/user-attachments/assets/67197df9-1dcb-4177-8f16-fed1c6b74e67"  height="230" />
+
   </a>
 </p>
 
