@@ -42,7 +42,7 @@
     <img src="https://github.com/user-attachments/assets/20491ea7-0245-4a73-824b-da01e0825cf4" height="230" />
   </a>
   <a href="https://github.com/dbetania2/ai-receipt-reader">
-    <img width="1641" height="935" alt="image" src="https://github.com/user-attachments/assets/7b92ad9d-f4dc-476f-84b8-9cc53d0d3ae1" height="230" />
+    <img src="https://github.com/user-attachments/assets/7b92ad9d-f4dc-476f-84b8-9cc53d0d3ae1" height="230" />
   </a>
   <a href="https://github.com/dbetania2/Analisis-Datos-Motor-Electrico-RPM">
     <img src="https://github.com/user-attachments/assets/c7127acc-fe4d-4e7e-b677-c1e1dce0ed6e" height="230" />
