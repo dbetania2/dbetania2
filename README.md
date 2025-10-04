@@ -52,7 +52,7 @@
   <a href="https://github.com/dbetania2/Globant-BootCamp">
     <img src="https://github.com/user-attachments/assets/036509ff-85d5-4bc8-ae40-915ca1474081"  height="230" />
   </a>
-  <a href="https://github.com/dbetania2/myportfolio">
+  <a href="https://github.com/dbetania2/myportfolio/tree/reestructuracion?tab=readme-ov-file">
     <img src="https://github.com/user-attachments/assets/67197df9-1dcb-4177-8f16-fed1c6b74e67"  height="230" />
 
   </a>
