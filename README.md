@@ -46,7 +46,6 @@
   </a>
   <a href="https://github.com/dbetania2/Analisis-Datos-Motor-Electrico-RPM">
     <img src="https://github.com/user-attachments/assets/c7127acc-fe4d-4e7e-b677-c1e1dce0ed6e" height="230" />
-    <img width="1190" height="853" alt="image" src="" />
     
   </a>
   <a href="https://github.com/dbetania2/myportfolio/tree/reestructuracion?tab=readme-ov-file">
