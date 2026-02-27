@@ -46,14 +46,12 @@
   </a>
   <a href="https://github.com/dbetania2/Analisis-Datos-Motor-Electrico-RPM">
     <img src="https://github.com/user-attachments/assets/c7127acc-fe4d-4e7e-b677-c1e1dce0ed6e" height="230" />
-    <img src="https://github.com/user-attachments/assets/4781bd08-690f-4054-aff6-2ce57c9a2b4f"  height="230" />
-
-  </a>
-  <a href="https://github.com/dbetania2/Globant-BootCamp">
-    <img src="https://github.com/user-attachments/assets/036509ff-85d5-4bc8-ae40-915ca1474081"  height="230" />
+    <img width="1190" height="853" alt="image" src="" />
+    
   </a>
   <a href="https://github.com/dbetania2/myportfolio/tree/reestructuracion?tab=readme-ov-file">
-    <img src="https://github.com/user-attachments/assets/67197df9-1dcb-4177-8f16-fed1c6b74e67"  height="230" />
+    <img src="https://github.com/user-attachments/assets/d0c7a220-f3db-412b-bd65-979f5f01b7ec"  height="230" />
+    <img src="https://github.com/user-attachments/assets/f326b0ee-b236-4b1e-9598-df503dfd82cb"  height="230" />
 
   </a>
 </p>
